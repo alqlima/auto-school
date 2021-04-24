@@ -1,5 +1,14 @@
 # Auto Escola
 
+<p align="center">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/auto-school" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alqlima/auto-school" />
+  <img alt="" src="https://img.shields.io/github/repo-size/alqlima/auto-school" />
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/alqlima/auto-school" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alqlima/auto-school" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/auto-school" />
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
