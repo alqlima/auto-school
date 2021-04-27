@@ -9,6 +9,13 @@
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/auto-school" />
 </p>
 
+ ## Status do projeto
+ 
+ 
+ <h4 align="center">
+   🚧 Auto School 🚀 Concluido!!! 🚧
+ </h4>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
